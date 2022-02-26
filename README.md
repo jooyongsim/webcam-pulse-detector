@@ -1,4 +1,4 @@
-![Alt text](http://i.imgur.com/2ngZopS.jpg "Screenshot")
+![Alt text](webcam_rppg3.PNG)
 
 webcam-pulse-detector
 -----------------------
@@ -88,3 +88,6 @@ isolated in about 15 to 20 seconds. A count-down is shown in the image frame.
 noise, sudden change in lighting, etc) the data collection process is reset and 
 started over. The sensitivity of this feature can be tweaked by changing `data_spike_limit` on line 31 of [get_pulse.py](get_pulse.py).
 Other mutable parameters of the analysis can be changed here as well.
+
+![Alt text](http://i.imgur.com/2ngZopS.jpg "Screenshot")
+
