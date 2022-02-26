@@ -1,4 +1,4 @@
-![Alt text](webcam_rppg3.PNG)
+![](webcam_ppg3.PNG)
 
 webcam-pulse-detector
 -----------------------
